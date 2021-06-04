@@ -4,8 +4,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>hr.fer.ooup.0036514117</groupId>
-    <artifactId>lv_3_0036514117</artifactId>
+	<groupId>hr.fer.ooup</groupId>
+    <artifactId>lv_3</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
